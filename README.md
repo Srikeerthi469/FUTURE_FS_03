@@ -19,3 +19,4 @@ A modern business website developed for a local cafe in Rajahmundry.
 [Add Vercel Link Here]
 
 This is a part of my internship.
+Demo Website Project created for educational and portfolio purposes.
