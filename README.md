@@ -16,7 +16,7 @@ A modern business website developed for a local cafe in Rajahmundry.
 - JavaScript
 
 ## Live Demo
-[Add Vercel Link Here]
+https://nimble-praline-40ccb7.netlify.app/
 
 This is a part of my internship.
 Demo Website Project created for educational and portfolio purposes.
